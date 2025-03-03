@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Karthik Vishal
 
 ## 💻 Aspiring Full Stack Engineer | 🎓 College Student
 
@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-I'm a passionate college student pursuing a degree in [Your Major] with a focus on full stack development. I love building web applications from the ground up, working with both frontend and backend technologies to create seamless user experiences.
+I'm a passionate college student pursuing a degree in B.Tech(CSE) with a focus on full stack development. I love building web applications from the ground up, working with both frontend and backend technologies to create seamless user experiences.
 
-- 🔭 I'm currently working on [Current Project Name]
-- 🌱 I'm learning [Technologies you're currently learning]
+- 🔭 I'm currently working on Hospital Management
+- 🌱 I'm learning React.js
 - 🎯 2025 Goals: Contribute to open source projects and build a robust portfolio
 - 💬 Ask me about web development, programming concepts, or college life!
 
@@ -36,8 +36,7 @@ I'm a passionate college student pursuing a degree in [Your Major] with a focus 
 #### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
 
 ---
 
