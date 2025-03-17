@@ -42,7 +42,7 @@ I'm a passionate college student pursuing a degree in B.Tech(CSE) with a focus o
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikvishal-s&show_icons=true&theme=tokyonight)
 
 ---
 
