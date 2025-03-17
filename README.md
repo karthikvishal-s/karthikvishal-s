@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Karthik Vishal
+# Karthik Vishal
 
 ## 💻 Aspiring Full Stack Engineer | 🎓 College Student
 
@@ -48,11 +48,13 @@ I'm a passionate college student pursuing a degree in B.Tech(CSE) with a focus o
 
 ### 🌟 Featured Projects
 
-#### [Project Name 1](link-to-project)
+#### Hospital Management (link-to-project)
 Brief description of your project - what it does, technologies used, and what you learned.
 
-#### [Project Name 2](link-to-project)
+#### UnitEd - Student Platform (link-to-project)
 Brief description of your project - what it does, technologies used, and what you learned.
+
+
 
 ---
 
@@ -69,8 +71,7 @@ Brief description of your project - what it does, technologies used, and what yo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](your-portfolio-url)
+
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
