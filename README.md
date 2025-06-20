@@ -10,7 +10,7 @@ I'm a passionate college student pursuing a degree in B.Tech(CSE) with a focus o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,redux,vite,firebase,vercel,render,postman,python,java,c,cpp,haskell,git,github,vscode,figma,ps,pr,lightroom,webpack,jwt,electron,notion,linux,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,vite,firebase,vercel,render,postman,py,java,c,cpp,haskell,git,github,vscode,figma,electron,notion,linux,bash,powershell" />
   </a>
 </p>
 
