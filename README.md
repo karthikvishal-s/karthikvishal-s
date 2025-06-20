@@ -8,13 +8,8 @@ I'm a passionate college student pursuing a degree in B.Tech(CSE) with a focus o
 ## 💻 Tech Stack:
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,vite,firebase,vercel,postman,py,java,c,cpp,haskell,git,github,vscode,figma,electron,notion,linux,bash,powershell" />
-  </a>
-</p>
 
-
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,vite,firebase,vercel,postman,haskell,git,github,vscode,figma,electron,notion,linux,bash,powershell&perline=6)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=karthikvishal-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
