@@ -21,19 +21,12 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=karthikvishal-s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-### 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=karthikvishal-s&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
