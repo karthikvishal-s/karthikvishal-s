@@ -3,11 +3,6 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 
 ---
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-vishal-s-851921287/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:karthikvishal1506@gmail.com)
-
----
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,vite,firebase,vercel,postman,haskell,git,github,vscode,figma,electron,notion,linux,bash,powershell&perline=6)](https://skillicons.dev)
