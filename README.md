@@ -10,6 +10,9 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 ![Visitors](https://shields-io-visitor-counter.vercel.app/karthikvishal-s?style=flat-square&color=0e75b6&label=visitors)
 
 
+## 🧭 Visitor Count
+
+![Visitors](https://countapi.xyz/hit/karthikvishal-s.github.io/visits)
 
 
 ---
