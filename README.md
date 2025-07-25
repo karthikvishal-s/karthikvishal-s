@@ -3,7 +3,7 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 
 ## 🧭 Visitor Count
 
-![Visitor Count](https://count.getloli.com/get/@karthikvishal-s?theme=rule34)
+![Visitor Count](https://count.getloli.com/get/@karthikvishal-s?theme=loli)
 
 ## 🧭 Visitor Count
 
