@@ -1,23 +1,6 @@
 # 💫 About Me:
 I'm a passionate college student pursuing a B.Tech in Computer Science and Engineering, with a strong focus on full-stack development. I enjoy building end-to-end web applications, integrating frontend and backend technologies to create smooth and impactful user experience.
 
-## 🧭 Visitor Count
-
-![Visitor Count](https://count.getloli.com/get/@karthikvishal-s?theme=loli)
-
-## 🧭 Visitor Count
-
-![Visitors](https://shields-io-visitor-counter.vercel.app/karthikvishal-s?style=flat-square&color=0e75b6&label=visitors)
-
-
-## 🧭 Visitor Count
-
-![Visitors](https://countapi.xyz/hit/karthikvishal-s.github.io/visits)
-
-## 🧭 Visitor Count
-
-![visitors](https://badgen.net/visitor-count/karthikvishal-s/profile?color=purple&icon=github)
-
 
 ---
 
@@ -39,6 +22,11 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 ![](https://github-contributor-stats.vercel.app/api?username=karthikvishal-s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+ ##  Visitor Count
+
+![Visitor Count](https://count.getloli.com/get/@karthikvishal-s?theme=loli)
+
+
 
 
 
