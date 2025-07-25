@@ -5,6 +5,10 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 
 ![Visitor Count](https://count.getloli.com/get/@karthikvishal-s?theme=rule34)
 
+## 🧭 Visitor Count
+
+![Visitors](https://shields-io-visitor-counter.vercel.app/karthikvishal-s?style=flat-square&color=0e75b6&label=visitors)
+
 
 
 
