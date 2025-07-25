@@ -14,6 +14,10 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 
 ![Visitors](https://countapi.xyz/hit/karthikvishal-s.github.io/visits)
 
+## 🧭 Visitor Count
+
+![visitors](https://badgen.net/visitor-count/karthikvishal-s/profile?color=purple&icon=github)
+
 
 ---
 
