@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm a passionate college student pursuing a B.Tech in Computer Science and Engineering, with a strong focus on full-stack development. I enjoy building end-to-end web applications, integrating frontend and backend technologies to create smooth and impactful user experience.
 
+![Visitor Count](https://count.getloli.com/get/@karthikvishal-s?theme=rule34)
+
+
 ---
 
 
