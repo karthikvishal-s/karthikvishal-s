@@ -1,5 +1,8 @@
 
 
+<p align="center">
+  <img src="238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -14,18 +17,13 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 
 ---
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=karthikvishal-s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
 <details>
   <summary><h2>🧑🏻‍💻 Visitors Count</h2></summary>
    <a href="#"><img alt="visitor count" src="https://count.getloli.com/get/@karthikvishal-s?theme=loli"></a>
   
 </details>
 
-
----
 <details> 
   <summary><h2>🛠️ My Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
