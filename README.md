@@ -4,12 +4,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=600&color=6A5ACD&center=true&vCenter=true&random=false&width=1000&height=105&lines=Karthik+Vishal+S;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=54&pause=300&color=0A5ACD&center=true&vCenter=true&random=false&width=1000&height=135&lines=Karthik+Vishal+S;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
-
-
-
 
 # 💫 About Me:
 I'm a passionate college student pursuing a B.Tech in Computer Science and Engineering, with a strong focus on full-stack development. I enjoy building end-to-end web applications, integrating frontend and backend technologies to create smooth and impactful user experience.
