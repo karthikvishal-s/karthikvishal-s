@@ -19,15 +19,15 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 
 ---
 <details>
-  <summary>Visitors Count</summary>
-  ![Visitor Count](https://count.getloli.com/get/@karthikvishal-s?theme=loli)
+  <summary><h2>🧑🏻‍💻 Visitors Count</h2></summary>
+   <a href="#"><img alt="visitor count" src="https://count.getloli.com/get/@karthikvishal-s?theme=loli"></a>
   
 </details>
 
 
 ---
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ My Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
