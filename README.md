@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/gif-1.gif" alt="Banner" width="100%">
+</p>
 
 
 <p align="center">
