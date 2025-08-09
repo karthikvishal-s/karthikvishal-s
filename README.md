@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/gif-1.gif" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/karthikvishal-s/karthikvishal-s/main/assets/gif-1.gif" alt="Banner" width="100%">
 </p>
+
 
 
 <p align="center">
