@@ -18,9 +18,12 @@ I'm a passionate college student pursuing a B.Tech in Computer Science and Engin
 ![](https://github-contributor-stats.vercel.app/api?username=karthikvishal-s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
- ##  Visitor Count
+<details>
+  <summary>Visitors Count</summary>
+  ![Visitor Count](https://count.getloli.com/get/@karthikvishal-s?theme=loli)
+  
+</details>
 
-![Visitor Count](https://count.getloli.com/get/@karthikvishal-s?theme=loli)
 
 ---
 <details> 
