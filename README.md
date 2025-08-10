@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://karthikvishal.vercel.app">
-    <p>Portfolio</p>
+  <a href="https://karthikvishal.vercel.app" target="_blank" style="text-decoration: none; font-size: 22px; font-weight: bold;">
+    🌐 Portfolio
   </a>
 </p>
+
 
 
 <h2>Visitors</h2>
