@@ -8,18 +8,17 @@
   </a>
 </p>
 
-# 💫 About Me:
-I'm a passionate college student pursuing a B.Tech in Computer Science and Engineering, with a strong focus on full-stack development. I enjoy building end-to-end web applications, integrating frontend and backend technologies to create smooth and impactful user experience.
+<p align="center">
+  <a href="https://karthikvishal.vercel.app">
+    <p>Portfolio</p>
+  </a>
+</p>
 
 
 ---
 
-
-<details>
-  <summary><h2>🧑🏻‍💻 Visitors Count</h2></summary>
-   <a href="#"><img alt="visitor count" src="https://count.getloli.com/get/@karthikvishal-s?theme=loli"></a>
-  
-</details>
+<h2>Visitors</h2>
+   <a href="#"><img alt="visitor count" src="https://count.getloli.com/get/@karthikvishal-s?theme=loli">
 
 <details> 
   <summary><h2>🛠️ My Tools</h2></summary>
