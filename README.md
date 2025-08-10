@@ -15,8 +15,6 @@
 </p>
 
 
----
-
 <h2>Visitors</h2>
    <a href="#"><img alt="visitor count" src="https://count.getloli.com/get/@karthikvishal-s?theme=loli">
 
