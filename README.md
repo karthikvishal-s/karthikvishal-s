@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=54&pause=300&color=FSBD02&center=true&vCenter=true&random=false&width=1000&height=85&lines=Karthik+Vishal+S;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=54&pause=300&color=F5BD02&center=true&vCenter=true&random=false&width=1000&height=85&lines=Karthik+Vishal+S;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,16 +13,10 @@
     Portfolio
   </a>
 </p>
-
-
-
 <h2>Visitors</h2>
    <a href="#"><img alt="visitor count" src="https://count.getloli.com/get/@karthikvishal-s?theme=loli">
-
 <details> 
-  <summary><h2>🛠️ My Tools</h2></summary>
-  
-
+  <summary><h2>My Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -39,7 +33,7 @@
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="#"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85.svg?logo=haskell&logoColor=white"></a>
   </p>
-
+  
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -86,7 +80,6 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
@@ -112,7 +105,7 @@
 
   <br/>
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 
   <a href="https://github.com/karthikvishal-s/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=karthikvishal-s&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
@@ -125,4 +118,3 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
