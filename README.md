@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=54&pause=300&color=0A5ACD&center=true&vCenter=true&random=false&width=1000&height=85&lines=Karthik+Vishal+S;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=54&pause=300&color=FSBD02&center=true&vCenter=true&random=false&width=1000&height=85&lines=Karthik+Vishal+S;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="right">
   <a href="https://karthikvishal.vercel.app" target="_blank" style="text-decoration: none; font-size: 22px; font-weight: bold;">
-    🌐 Portfolio
+    Portfolio
   </a>
 </p>
 
