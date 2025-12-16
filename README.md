@@ -10,7 +10,7 @@
 
 <p align="right">
   <a href="https://karthikvishal.vercel.app" target="_blank" style="text-decoration: none; font-size: 22px; font-weight: bold;">
-    Portfolio
+    Portfolio.
   </a>
 </p>
 <h2>Visitors</h2>
